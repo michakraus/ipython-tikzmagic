@@ -41,3 +41,7 @@ or by starting a cell with `%%tikz`, e.g.,
 ## Example
 
 [IPython example notebook](tikzmagic_test.ipynb)
+
+## Disclaimer
+
+This package is not actively maintained. In particular, the author cannot provide support for installation issues. However, PRs for fixes and extensions will usually be merged.
