@@ -6,7 +6,7 @@ The package requires a working LaTeX installation, ImageMagick and pdf2svg.
 
 ## Installation
 
-```pip install git+git://github.com/mkrphys/ipython-tikzmagic.git```
+```pip install git+https://github.com/michakraus/ipython-tikzmagic.git```
 
 ## Usage
 
